@@ -1,8 +1,0 @@
-{
-  "name": "top-right-notifications",
-  "common_name": "TopRight Notifications",
-  "description": "Moves Steam notification to top-right if possible",
-  "version": "1.0.0",
-  "useBackend": false,
-  "frontend": ".cloude/Dist"
-}
