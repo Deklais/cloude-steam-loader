@@ -1,0 +1,7 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+/** template header which exposes the Cloude version to windres */
+#define CLOUDE_VERSION "${CLOUDE_VERSION}"
+
+#endif // VERSION_H

@@ -1,0 +1,11 @@
+{
+  "workspaces": [
+    "ttc",
+    "sdk/packages/client",
+    "sdk/packages/browser",
+    "sdk/packages/loader",
+    "sdk/packages/test",
+    "frontend",
+    "tests/ffi"
+  ]
+}
